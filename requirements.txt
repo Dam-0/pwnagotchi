@@ -41,7 +41,7 @@ flask-wtf==1.0.1
     # via -r requirements.in
 fonttools==4.37.4
     # via matplotlib
-gast==0.5.3
+gast==0.2.2
     # via tensorflow
 google-pasta==0.2.0
     # via tensorflow
@@ -161,7 +161,7 @@ spidev==3.5
     #   inky
 stable-baselines==2.10.2
     # via -r requirements.in
-tensorboard==1.13.1
+tensorboard==1.15.0
     # via tensorflow
 tensorflow==1.15.0
 tensorflow-estimator==1.15.1
